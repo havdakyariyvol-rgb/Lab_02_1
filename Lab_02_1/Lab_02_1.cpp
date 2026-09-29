@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// Зміна №1 для лабораторної роботи 2.0
+
 int main()
 {
     double alpha;
