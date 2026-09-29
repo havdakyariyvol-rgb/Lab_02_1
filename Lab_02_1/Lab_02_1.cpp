@@ -11,7 +11,7 @@ int main()
     double z1;
     double z2;
 
-    cout << "alpha = ";
+    cout << "Введіть alpha = ";
     cin >> alpha;
 
     z1 = (sin(2 * alpha) + sin(5 * alpha) - sin(3 * alpha))
